@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background: white;
+}
+form{
+  margin: 0 auto;
+  width: 300pax;
+  padding: 1em;
+  background: blue;
+  border-radius: 1em;
+}
+label, input {
+  margin-bottom: 1em;
+  width: 100%;
+}
